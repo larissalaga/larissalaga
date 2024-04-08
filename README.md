@@ -24,4 +24,4 @@
 Feel free to reach out to me for collaborations or just a friendly chat!
 
 ---
-Larissa Araújo Gama | [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/larissa-araujo-gama-alvarenga/?locale=en_US))
+Larissa Araújo Gama | [LinkedIn](https://www.linkedin.com/in/larissa-araujo-gama-alvarenga/?locale=en_US)

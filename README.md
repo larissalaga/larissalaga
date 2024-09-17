@@ -3,6 +3,10 @@
 - 🎓 <i>Currently:</i> Pursuing a degree in Systems Analysis and Development at FIAP, São Paulo, Brazil.
 - 🏗️ <i>Previously:</i> Graduated in Civil Engineering, which enriched my analytical and problem-solving skills, now applying them in the tech world.
 
+## 📚 My Projects
+
+- https://github.com/larissalaga/Portfolio/tree/main
+
 ## 👩‍💻 My Tech Journey
 
 - During my civil engineering studies, I discovered my passion for the technology world. This journey began when I served as a monitor, helping students grasp fundamental algorithmic concepts and programming in Portugol.
